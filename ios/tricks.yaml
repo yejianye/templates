@@ -1,0 +1,5 @@
+tricks:
+- watchdog_tricks.compiler.CtagsTrick:
+    ctags: 'ctags_objc'
+    filetypes: ['m']
+    rebuild: true

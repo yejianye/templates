@@ -1,0 +1,6 @@
+project_name: project_name
+project_root: ~/source_code/project_name
+tabs:
+  - editor: #vim -S project.vim
+  - shell: #default shell
+  - watcher: watchmedo tricks tricks.yaml
